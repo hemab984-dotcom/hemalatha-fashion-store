@@ -34,7 +34,7 @@ header{
     height:auto;
 }
 .item-name{
-    font-size: 14px;
+    font-size: 20px;
 }
 .item-name:hover{
     color: #806BDC;
