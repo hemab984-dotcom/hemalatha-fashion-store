@@ -31,10 +31,10 @@ header{
     text-align:center;
 }
 .item-img{
-    height:auto;
+    height:60px;
 }
 .item-name{
-    font-size: 20px;
+    font-size: 14px;
 }
 .item-name:hover{
     color: #806BDC;
