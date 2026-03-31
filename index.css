@@ -31,7 +31,7 @@ header{
     text-align:center;
 }
 .item-img{
-    height:30px;
+    height:auto;
 }
 .item-name{
     font-size: 15px;
